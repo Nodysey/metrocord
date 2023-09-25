@@ -1,20 +1,20 @@
-<img width=800 src="https://github.com/refact0r/midnight-discord/assets/34758569/7ab9402b-d987-42c5-b9bf-7ea144edfad9">
+<img width=800 src="https://cdn.discordapp.com/attachments/985577169797415015/1155908836121653348/metrocord.svg">
 
-# midnight
+# Metrocord
 
-A darkened discord theme with rounded chat and sidebars.
-
-<img width=800 src="https://github.com/refact0r/midnight-discord/assets/34758569/f6b8c3ac-59e0-405c-b247-092232c21052">
+Recreate the Windows 8 start menu design with this metro-style theme! *sarcasm*
 
 ## install
 
-Download from <https://betterdiscord.app/theme/midnight> or download this repo.
+Download this repo.
 
-Put the `midnight.theme.css` or `midnight-classic.theme.css` files into your betterdiscord (or other client) theme folder.
+Put the `metrocord.theme.css` file into your betterdiscord (or other client) theme folder.
 
-IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!
+This theme works well with the default discord themes, i have checked myself.
  
 ## credits
+
+original project by <https://github.com/refact0r/midnight-discord>
 
 original design inspired by <https://github.com/schnensch0/zelk>
 
