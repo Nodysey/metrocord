@@ -2,7 +2,7 @@
 
 # Metrocord
 
-Recreate the Windows 8 start menu design with this metro-style theme! *sarcasm*
+Recreate the Windows 8 start menu design with this metro-style theme! *(sarcasm)*
 
 ## install
 
