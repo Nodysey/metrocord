@@ -1,4 +1,4 @@
-<img width=800 src="https://cdn.discordapp.com/attachments/985577169797415015/1155908836121653348/metrocord.svg">
+<img height=300 src="https://cdn.discordapp.com/attachments/985577169797415015/1155908836121653348/metrocord.svg">
 
 # Metrocord
 
